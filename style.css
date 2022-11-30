@@ -1,0 +1,58 @@
+body
+        {
+            background-color: rgb(130, 192, 181)
+        }
+    .main-h
+        {
+          color: rgb(223, 213, 213);
+          background-color: rgb(99, 142, 134);
+          border-radius: 10px;
+       }
+     a:link
+       {
+           color: rgb(126, 70, 156);
+           text-decoration: none
+
+       }
+    a:visited
+       {
+           color: yellow;
+       }
+    a:hover
+       {
+           color: rgb(0, 0, 0);
+       }
+    a:active
+       {
+           color: purple;
+       }
+     .navbar
+       {
+           background-color: black;
+           overflow: hidden;
+           position: fixed;
+           bottom: 0;
+           width: 100%;
+           border-radius: 10px;
+       }
+    .navbar a 
+       {
+           float: left;
+           display: block;
+           color:aquamarine;
+           text-align: center;
+           padding: 14px 16px;
+           text-decoration: none;
+           font-size: 17px;
+       }
+    .navbar a:hover 
+       {
+           background-color: grey;
+           color: black;
+           transition: background-color 1s,
+               color 1s
+       }
+     .navbar a.active
+       {
+           color: white;
+       }
