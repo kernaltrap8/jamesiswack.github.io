@@ -2,7 +2,7 @@ body
         {
             margin: 0;
             background-color: rgb(0, 0, 0);
-            background-image: url(/images/channels4_banner.jpg);
+            background-image: url(images/channels4_banner.jpg);
             background-repeat: no-repeat;
             color: white;
         }
@@ -63,6 +63,6 @@ body
        }
     .black
         {
-            background-image: url(/images/black.png)
+            background-image: url(images/black.png)
 
         }
