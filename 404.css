@@ -1,6 +1,8 @@
 body
         {
-        background-color: rgb(255, 255, 255)
+        background-color: rgb(255, 255, 255);
+        margin: 0;
+        background-image: url(/images/channels4_banner.jpg)
         }
     .main-h
         {
