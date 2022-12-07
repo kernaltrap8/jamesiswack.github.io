@@ -8,3 +8,5 @@ github user profile website :)
   - Make a PS3 resources site (this will take a LONG time, please contribute by giving me ideas or info on Discord: JamesIsWack#8330)
 - Change website look
   - Its not the 90's anymore!
+- Added CFW/PS3HEN explanations
+  - You're welcome noobies :P
