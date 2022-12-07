@@ -9,4 +9,4 @@ github user profile website :)
 - Change website look
   - Its not the 90's anymore!
 - Added CFW/PS3HEN explanations
- - You're welcome noobies :P
+  - You're welcome noobies :P
