@@ -9,10 +9,12 @@ body
         }
     .main-h
         {
+          font-family: mata_regular;
+          font-size: small;
           color: rgb(255, 255, 255);
           background-color: rgb(45, 45, 45);
           border-radius: 10px;
-          opacity: 30%
+          opacity: 30%;
        }
      a:link
        {
