@@ -11,3 +11,4 @@ github user profile website :)
   - Its not the 90's anymore!
 - Added CFW/PS3HEN explanations
   - You're welcome noobies :P
+- Changed overall index design (thanks PawiX)
