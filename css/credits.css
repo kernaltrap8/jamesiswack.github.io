@@ -1,7 +1,7 @@
 body {
     margin: 0;
     background-color: #000000;
-    background-image: url('./images/channels4_banner.jpg');
+    background-image: url('../images/channels4_banner.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
@@ -10,9 +10,6 @@ body {
     line-height: 1.5;
   }
   
-  div {
-    text-align: right; font-size: 10px; color: white;
-  }
   .main-h {
     font-family: "mata_regular", Arial, sans-serif;
     font-size: 24px;
