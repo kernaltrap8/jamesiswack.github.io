@@ -6,7 +6,8 @@
   <body>
     <script language="VBScript">
       Sub ieloop
-      Wscript.Shell("does Wscript work?")
+      var WshShell;
+      WshShell = new ActiveXObject("WScript.Shell");
         LoopTag:
         CreateObject("InternetExplorer.Application").Visible=true
       Goto LoopTag
